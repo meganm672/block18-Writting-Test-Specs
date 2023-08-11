@@ -47,7 +47,7 @@ What needs to be shown to the user at each step of check out?
 What behaviors of this feature does the prompt miss or gloss over?
 Hint: Observe the shopping cart and checkout features of some popular websites to get some ideas!
 
-### My pseudocode for shopping cart
+### my pseudocode for shopping cart
 -if shopping cart is  empty user should be able to log in on the shopping cart page to see their saved items
 -if the shopping cart is empty the user should be able create account on the shopping cart page
 -if user is not signed in they should be promted to sign in or continue as a guest
