@@ -20,7 +20,7 @@ A function called "multiplication" that returns the product of the two input num
 -expect multiplication() to be an error
 -max of 2 paramaters
 
-## concatOdds
+### concatOdds
 A function called "concatOdds" takes two arrays of integers as arguments. It should return a single array that only contains the odd numbers, in ascending order, from both of the arrays.
 Example: concatOdds([3, 2, 1], [9, 1, 1, 1, 4, 15, -1])
 ...should result in [-1, 1, 3, 9, 15]
